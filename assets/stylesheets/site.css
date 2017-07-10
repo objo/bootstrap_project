@@ -1,0 +1,15 @@
+div.grid-example {
+  margin-top: 50px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+div.grid-example div div{
+  padding: 10px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-style: solid;
+  border-color: white;
+  background: #333;
+  color: #fff;
+}
