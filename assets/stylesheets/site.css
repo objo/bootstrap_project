@@ -13,3 +13,15 @@ div.grid-example div div{
   background: #333;
   color: #fff;
 }
+
+div.button-examples {
+  margin-top: 50px;
+}
+
+.btn-joes-color {
+  background-color: #FF00FF;
+}
+
+.btn-joes-color:hover {
+  background-color: #FA58F4;
+}
